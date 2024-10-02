@@ -1,4 +1,3 @@
+* { box-sizing: border-box; }
 h1 { color: blue; }
-
-
-body { background: #fafafa; }
+body { background: #fed; }
